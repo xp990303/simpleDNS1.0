@@ -1,0 +1,2 @@
+edu.cn,86400,IN,NS,ser.cn
+ser.cn,86400,IN,A,127.4.4.1

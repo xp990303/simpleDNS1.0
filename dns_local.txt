@@ -1,0 +1,10 @@
+www.qq.com,86400,IN,A,192.168.1.1
+qq.com,86400,IN,A,192.168.1.1
+www.baidu.com,86400,IN,A,192.168.1.1
+bupt.edu.cn,86400,IN,A,192.168.225.237
+bupt.edu.cn,86400,IN,MX,5,mail.bupt.edu.cn
+mail.bupt.edu.cn,86400,IN,A,192.168.105.137
+home.bupt.edu.cn,86400,IN,CNAME,home1.bupt.edu.cn
+home1.bupt.edu.cn,86400,IN,A,192.168.1.137
+goods.com,86400,IN,A,192.168.125.137
+goods.cn,86400,IN,A,192.168.125.237
